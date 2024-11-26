@@ -6,4 +6,4 @@
 
 Here is a demo video:
 
-![Demo Video](https://github.com/your-username/your-repository/raw/main/assets/demo-video.mp4)
+![Demo Video](compressed_video.mp4)
